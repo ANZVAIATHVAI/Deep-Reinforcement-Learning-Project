@@ -12,11 +12,7 @@ The specific combination of model and algorithm adopted here to train the agent 
 
 Once trained, the agent can be seen in action in the Unity environment.  
 Take a look!  
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="TrainedAgent/frame.png">
-    <source src="TrainedAgent/TrainedAgent.mp4" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/53077127/112689969-4d10cb80-8e7b-11eb-82ce-e0cc986b2736.mp4
 
 ## Installation
 Follow the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
