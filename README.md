@@ -11,8 +11,7 @@ Such phase for the agent is the **training phase** through reinforcement learnin
 The specific combination of model and algorithm adopted here to train the agent is called Deep Q-Learning, since it's mainly based on deep neural network (a supervised-learning technique), and Q-Learning (a foundational reinforcement-learning technique).
 
 Once trained, the agent can be seen in action in the Unity environment.  
-Take a look!  
-https://user-images.githubusercontent.com/53077127/112689969-4d10cb80-8e7b-11eb-82ce-e0cc986b2736.mp4
+[![Take a look!] (TrainedAgent/frame.png)](https://user-images.githubusercontent.com/53077127/112689969-4d10cb80-8e7b-11eb-82ce-e0cc986b2736.mp4)
 
 ## Installation
 Follow the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
