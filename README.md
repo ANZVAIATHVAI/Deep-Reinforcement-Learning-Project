@@ -21,6 +21,8 @@ Take a look!
 ## Installation
 Follow the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
+Note: the project is provided with pre-built Unity environemnt for Windows 10 (64 bit). Other operating systems need custom environment.
+
 ## Execution
 Open the Navigation.ipynb notebook.  
 Run steps from 1 to 4 to train an agent.
