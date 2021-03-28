@@ -20,6 +20,6 @@ Follow the instructions in the [DRLND GitHub repository](https://github.com/udac
 Note: the project is provided with pre-built Unity environemnt for Windows 10 (64 bit). Other operating systems need custom environment.
 
 ## Execution
-Open the Navigation.ipynb notebook.  
+Open the Navigation3.ipynb notebook.  
 Run steps from 1 to 4 to train an agent.  
 Run step 5 if you want to watch the agent play. If you don't train it, a pre-trained version is available.    
