@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Nanodegree - Project 1: DQL
+# Deep Reinforcement Learning Nanodegree - Project 1: playing a simple game with DQN
 
 This project is part of the Deep Reinforcement Learning course I followed on Udacity.  
 
